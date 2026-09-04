@@ -8,4 +8,4 @@ COPY . .
 
 ENV LINJIAN_HOST=0.0.0.0
 
-CMD ["python", "linjian_server.py"]
+CMD ["python3", "linjian_server.py"]
